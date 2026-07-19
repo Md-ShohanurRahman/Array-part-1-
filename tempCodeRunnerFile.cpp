@@ -1,1 +1,1 @@
- 
+        if(arr[mid]==key){
